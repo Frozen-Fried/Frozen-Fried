@@ -4,6 +4,8 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Godot-44475A?logo=godot-engine&logoColor=8aadf4&labelColor=302D41&color=8aadf4"/>
+  <img src="https://img.shields.io/badge/Blender-44475A?logo=blender&logoColor=fab387&labelColor=302D41&color=fab387"/>
+  <img src="https://img.shields.io/badge/Aseprite-44475A?logo=aseprite&logoColor=f5c2e7&labelColor=302D41&color=f5c2e7"/>
   <img src="https://img.shields.io/badge/Catppuccin-Mocha-44475A?logo=catppuccin&logoColor=f5e0dc&labelColor=302D41&color=f5e0dc"/>
   <img src="https://komarev.com/ghpvc/?username=Frozen-Fried&color=8aadf4&style=flat-square" alt="Profile views" />
 </p>
