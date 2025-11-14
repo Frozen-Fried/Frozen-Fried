@@ -1,6 +1,6 @@
 
 
-<h1 align="center"><img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/mocha-logo.svg" width="40" />&nbsp;Hey, I'm Frozen-Fried!</h1>
+<h1 align="center">Howdy,I'm Frozen Fried!</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Godot-44475A?logo=godot-engine&logoColor=8aadf4&labelColor=302D41&color=8aadf4"/>
