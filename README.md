@@ -15,7 +15,7 @@
 
 ## 🌙 About Me
 
-✨ **Just a Godot [Godot Engine](https://godotengine.org/) developer.**  
+✨ **Just a [Godot Engine](https://godotengine.org/) developer.**  
 💻 I've been using this robot for 3 years and currently making my game CatNip neighbour.  
 
 
