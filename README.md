@@ -25,7 +25,7 @@
 - **Aseprite**
 - **Photoshop**
 
-- Catppuccin Mocha color palette for everything
+- **Catppuccin Mocha** [Coolest theme]
 
 ---
 
