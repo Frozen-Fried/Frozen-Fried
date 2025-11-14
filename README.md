@@ -6,6 +6,7 @@
   <img src="https://img.shields.io/badge/Godot-44475A?logo=godot-engine&logoColor=8aadf4&labelColor=302D41&color=8aadf4"/>
   <img src="https://img.shields.io/badge/Blender-44475A?logo=blender&logoColor=fab387&labelColor=302D41&color=fab387"/>
   <img src="https://img.shields.io/badge/Aseprite-44475A?logo=aseprite&logoColor=f5c2e7&labelColor=302D41&color=f5c2e7"/>
+  <img src="https://img.shields.io/badge/VS_Code-44475A?logo=visual-studio-code&logoColor=89b4fa&labelColor=302D41&color=89b4fa"/>
   <img src="https://img.shields.io/badge/Catppuccin-Mocha-44475A?logo=catppuccin&logoColor=f5e0dc&labelColor=302D41&color=f5e0dc"/>
   <img src="https://komarev.com/ghpvc/?username=Frozen-Fried&color=8aadf4&style=flat-square" alt="Profile views" />
 </p>
@@ -15,7 +16,7 @@
 ## 🌙 About Me
 
 ✨ **Just a Godot [Godot Engine](https://godotengine.org/) developer.**  
-💻 I have been using this robot for 3 years and currently making my game CatNip neighbour.  
+💻 I've been using this robot for 3 years and currently making my game CatNip neighbour.  
 
 
 ---
@@ -33,7 +34,7 @@
 
 ## ☕ Current Mood: **Chilling**
 
-
+[Note:I did it using copilot...so it's not soo cool sorry xD
 
 
 <!--
