@@ -31,8 +31,10 @@
 - **Catppuccin Mocha** [Coolest theme]
 
 ---
-##My Spec
--**Potato**,no seriously it's a potato!
+
+## My Spec:
+
+- **Potato**,no seriously it's a potato!
 ## ☕ Current Mood: **Chilling**
 
 [Note:I did it using copilot...so it's not soo cool sorry xD
