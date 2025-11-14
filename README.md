@@ -32,11 +32,6 @@
 ## ☕ Current Mood: **Chilling**
 
 
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Frozen-Fried&show_icons=true&theme=catppuccin_mocha&count_private=true&hide_rank=true"/>
-</p>
 
 
 <!--
