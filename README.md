@@ -1,8 +1,4 @@
-<!-- Catppuccin Mocha-themed GitHub Profile README for Frozen-Fried -->
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/mocha-banner.svg" width="80%" alt="Catppuccin Mocha Banner" />
-</p>
 
 <h1 align="center"><img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/mocha-logo.svg" width="40" />&nbsp;Hey, I'm Frozen-Fried!</h1>
 
